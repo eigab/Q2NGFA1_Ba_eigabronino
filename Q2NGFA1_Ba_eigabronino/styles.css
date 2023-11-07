@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+video{
+    height: 99vh;
+    width: 24vw;
+    border: 1px solid white;
+}
+
+body{
+    background-color: black;
+}
